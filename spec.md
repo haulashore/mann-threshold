@@ -32,9 +32,8 @@ Connect the readership of the business press with authentic science.
 
 ### Slide 1: Black body radiation
 
-* Coals in a fire as example.
-* Slider to estimate temperature of sun.
-* Convert spectrum to RGB for display ( http://markkness.net/colorpy/ColorPy.html ).
+* Coals in a fire as example ( [spectrum to RGB](http://markkness.net/colorpy/ColorPy.html) ).
+* Slider to estimate temperature of sun
 * What things are approximately black bodies?
 
 ### Slide 2: Atmospheric absorption.
@@ -55,11 +54,11 @@ Connect the readership of the business press with authentic science.
 
 ![](https://github.com/haulashore/mann-threshold/blob/master/seesaw_speedo.png "Seesaw speedo")
 
-
 ### Slide 4: Mann model
 
 * Explain model extensions.
 * Add Mann's forcings to seesaw-speedo.
+* Click to update parameters (as [here](http://climateblab.github.io/energy-balance/)).
 
 ### Slide 5: Mann conclusion
 
