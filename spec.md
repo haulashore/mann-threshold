@@ -24,10 +24,10 @@ Connect the readership of the business press with authentic science.
 
 ### slide 0: Introduction
 
-    * What is it?
-    * What isn't it?
-    * Why is it important?
-    * What is to come?
+* What is it?
+* What isn't it?
+* Why is it important?
+* What is to come?
 
 
 ### Slide 1: Black body radiation
