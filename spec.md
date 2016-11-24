@@ -9,8 +9,8 @@ Connect the readership of the business press with authentic science.
 * Interactivity: engage readers with things to change and explore.
 * Visualization: present core ideas in familiar terms.
 * Authenticity: base on authentic (traceable, reproducible) science,
-  math, simulation etc. Access technical detail via mouseovers (or
-  similar).
+  math, simulation etc. Where practical, compute in the
+  browser. Access technical detail via mouseovers (or similar).
 * Code: modeling code (at least) is open source, and controlled on
   github (or similar); tests for critical functions.
 * Format: multiple slides; mobile focus; suitable for serialization.
@@ -22,23 +22,24 @@ Connect the readership of the business press with authentic science.
 
 ## Content
 
-### slide 0: Introduction
+### Slide 0: Introduction
 
-* What is it?
-* What isn't it?
-* Why is it important?
-* What is to come?
+* Explain the utility of the EBM.
+* Contrast with complex models.
+* Why are such models important in science and engineering?
+* Outline contents.
 
 
 ### Slide 1: Black body radiation
 
-* Coals in a fire as example ( [spectrum to RGB](http://markkness.net/colorpy/ColorPy.html) ).
+* Example: coals in a fire; slider changes temperature
+  ( [spectrum to RGB](http://markkness.net/colorpy/ColorPy.html) ).
 * Slider to estimate temperature of sun
 * What things are approximately black bodies?
 
 ### Slide 2: Atmospheric absorption.
 
-* Filter Sun's (black body) spectrum with simple filter.
+* Show Sun's (black body) spectrum after simple filter.
 * Extend to filtering Sun's through atmosphere (Something like
   https://commons.wikimedia.org/wiki/File:Atmospheric_Transmission.png.)
 * Filter Earth's spectrum through atmosphere.
@@ -49,18 +50,13 @@ Connect the readership of the business press with authentic science.
 
 * Basic idea = steady-state conservation of energy (?).
 * Introduce seesaw-speedo (below).
-* Initially, no atmosphere, then add by user selection (borrow
-  ideas from http://climateblab.github.io/energy-balance/ ).
+* Start without atmosphere, progressively add forcings (borrow ideas
+  from http://climateblab.github.io/energy-balance/ ).
 
 ![](https://github.com/haulashore/mann-threshold/blob/master/seesaw_speedo.png "Seesaw speedo")
 
-### Slide 4: Mann model
+### Slide 4: Mann conclusion
 
-* Explain model extensions.
-* Add Mann's forcings to seesaw-speedo.
-* Click to update parameters (as [here](http://climateblab.github.io/energy-balance/)).
-
-### Slide 5: Mann conclusion
-
+* Port Mann's code to javascript.
 * Interactive simulation & plot.
 * http://climateblab.github.io/dangerous-threshold/
