@@ -2,7 +2,8 @@
 
 ## Objective
 
-Connect the readership of the business press with authentic science.
+Make authentic science easily accessible to readers of the business
+press.
 
 ## Approach
 
@@ -34,7 +35,7 @@ Connect the readership of the business press with authentic science.
 
 * Example: coals in a fire; slider changes temperature
   ( [spectrum to RGB](http://markkness.net/colorpy/ColorPy.html) ).
-* Slider to estimate temperature of sun
+* Slider to estimate temperature of sun.
 * What things are approximately black bodies?
 
 ### Slide 2: Atmospheric absorption.
@@ -48,10 +49,10 @@ Connect the readership of the business press with authentic science.
 
 ### Slide 3: Energy balance
 
-* Basic idea = steady-state conservation of energy (?).
 * Introduce seesaw-speedo (below).
 * Start without atmosphere, progressively add forcings (borrow ideas
   from http://climateblab.github.io/energy-balance/ ).
+* Detail of forcings in mouseovers (or similar).
 
 ![](https://github.com/haulashore/mann-threshold/blob/master/seesaw_speedo.png "Seesaw speedo")
 
