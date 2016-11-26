@@ -34,7 +34,7 @@ press.
 ### Slide 1: Black body radiation
 
 * Example:
-  [Incandescence](https://en.wikipedia.org/wiki/Incandescence).
+  [Incandescence](https://en.wikipedia.org/wiki/Incandescence)
   ([spectrum to RGB](http://markkness.net/colorpy/ColorPy.html),
   [Color temperature](https://en.wikipedia.org/wiki/Color_temperature)).
 * Slider to estimate temperature of sun.
