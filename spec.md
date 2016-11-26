@@ -33,8 +33,10 @@ press.
 
 ### Slide 1: Black body radiation
 
-* Example: coals in a fire; slider changes temperature
-  ( [spectrum to RGB](http://markkness.net/colorpy/ColorPy.html) ).
+* Example:
+  [Incandescence](https://en.wikipedia.org/wiki/Incandescence).
+  ([spectrum to RGB](http://markkness.net/colorpy/ColorPy.html),
+  [Color temperature](https://en.wikipedia.org/wiki/Color_temperature)).
 * Slider to estimate temperature of sun.
 * What things are approximately black bodies?
 
