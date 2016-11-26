@@ -37,7 +37,8 @@ press.
   [Incandescence](https://en.wikipedia.org/wiki/Incandescence)
   ([spectrum to RGB](http://markkness.net/colorpy/ColorPy.html),
   [Color temperature](https://en.wikipedia.org/wiki/Color_temperature)).
-* Slider to estimate temperature of sun.
+* Slider to estimate temperature of sun
+  ([effective temperature](https://en.wikipedia.org/wiki/Effective_temperature)).
 * What things are approximately black bodies?
 
 ### Slide 2: Atmospheric absorption.
