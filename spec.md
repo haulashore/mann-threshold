@@ -24,14 +24,14 @@ readers of the business press.
 
 ## Content
 
-### Slide 0: Introduction / EBM
+### Slide 1: Introduction / EBM
 
 * Explain the utility of the EBM.
 * Contrast with complex models.
 * Why are such models important/pervasive in science and engineering?
 * Contents
 
-### Slide 1: Black body radiation
+### Slide 2: Black body radiation
 
 * Interactive example:
   [incandescence](https://en.wikipedia.org/wiki/Incandescence)
@@ -41,7 +41,7 @@ readers of the business press.
   ([effective temperature](https://en.wikipedia.org/wiki/Effective_temperature)).
 * What things are approximately black bodies?
 
-### Slide 2: Atmospheric absorption.
+### Slide 3: Atmospheric absorption.
 
 * Show Sun's (short-wave) spectrum after simple filter (notch?).
 * Extend to filtering Sun's through atmosphere (Something like
@@ -50,7 +50,7 @@ readers of the business press.
 * Qualitatively, enough here to understand greenhouse effect. But,
   for quantitative results, need more...
 
-### Slide 3: Energy balance
+### Slide 4: Energy balance
 
 * Introduce seesaw-speedo (below).
 * Start without atmosphere, progressively add forcings (borrow ideas
@@ -59,7 +59,7 @@ readers of the business press.
 
 ![](https://github.com/haulashore/mann-threshold/blob/master/seesaw_speedo.png "Seesaw speedo")
 
-### Slide 4: Mann conclusion
+### Slide 5: Mann conclusion
 
 * Port Mann's code to javascript.
 * Interactive simulation & plot.
