@@ -2,8 +2,8 @@
 
 ## Objective
 
-Make authentic science easily accessible to readers of the business
-press.
+Make authentic climate-science easily accessible to readers of the
+business press.
 
 ## Approach
 
