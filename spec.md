@@ -53,7 +53,7 @@ readers of the business press.
 
 ### Slide 4: Energy balance
 
-* Introduce seesaw-speedo (below).
+* Introduce seesaw-speedo as a proxy for the ODE (below).
 * Start without atmosphere, progressively add forcings (borrow ideas
   from http://climateblab.github.io/energy-balance/ ).
 * Detail of forcings in mouseovers (or similar).
