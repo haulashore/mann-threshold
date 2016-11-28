@@ -1,9 +1,9 @@
-# Spec
+# Specification
 
 ## Objective
 
-Make authentic climate-science easily accessible to readers of the
-business press.
+Present authentic climate-science in a substantive, accessible way to
+readers of the business press.
 
 ## General approach
 
