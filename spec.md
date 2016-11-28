@@ -12,31 +12,31 @@ readers of the business press.
 * Authenticity: base on authentic (traceable, reproducible) science,
   math, simulation etc. Where practical, compute in the
   browser. Access technical detail via mouseovers (or similar).
-* Code: modeling code is client-side, open source and controlled on
-  github (or similar); tests for critical functions.
-* Format: multiple slides; mobile focus; suitable for serialization.
+* Code: client-side, open source and controlled on github (or
+  similar); tests for critical functions.
+* Format: multiple slides (suitable for serialization); mobile focus.
 
 ## Limitations
 
-* Limit to modern browsers?
+* Limit to recent browser versions?
 * Publisher may close-source some code?
+* No server-side computation.
 
 ## Content
 
-### Slide 0: Introduction
+### Slide 0: Introduction / EBM
 
 * Explain the utility of the EBM.
 * Contrast with complex models.
-* Why are such models important in science and engineering?
-* Outline contents.
-
+* Why are such models important/pervasive in science and engineering?
+* Contents
 
 ### Slide 1: Black body radiation
 
-* Example:
+* Interactive example:
   [Incandescence](https://en.wikipedia.org/wiki/Incandescence)
   ([spectrum to RGB](http://markkness.net/colorpy/ColorPy.html),
-  [Color temperature](https://en.wikipedia.org/wiki/Color_temperature)).
+  [color temperature](https://en.wikipedia.org/wiki/Color_temperature)).
 * Slider to estimate temperature of sun
   ([effective temperature](https://en.wikipedia.org/wiki/Effective_temperature)).
 * What things are approximately black bodies?
