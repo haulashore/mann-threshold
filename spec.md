@@ -12,7 +12,7 @@ press.
 * Authenticity: base on authentic (traceable, reproducible) science,
   math, simulation etc. Where practical, compute in the
   browser. Access technical detail via mouseovers (or similar).
-* Code: modeling code (at least) is open source, and controlled on
+* Code: modeling code is client-side, open source and controlled on
   github (or similar); tests for critical functions.
 * Format: multiple slides; mobile focus; suitable for serialization.
 
