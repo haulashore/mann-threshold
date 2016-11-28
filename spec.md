@@ -44,8 +44,9 @@ readers of the business press.
 ### Slide 3: Atmospheric absorption.
 
 * Show Sun's (short-wave) spectrum after simple filter (notch?).
-* Extend to filtering Sun's through atmosphere (Something like
-  https://commons.wikimedia.org/wiki/File:Atmospheric_Transmission.png.)
+* Extend to filtering Sun's through atmosphere (Something
+  like
+  [this](https://commons.wikimedia.org/wiki/File:Atmospheric_Transmission.png).)
 * Filter Earth's (long-wave) spectrum through atmosphere.
 * Qualitatively, enough here to understand greenhouse effect. But,
   for quantitative results, need more...
