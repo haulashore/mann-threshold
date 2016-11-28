@@ -5,7 +5,7 @@
 Make authentic climate-science easily accessible to readers of the
 business press.
 
-## Approach
+## General approach
 
 * Interactivity: engage readers with things to change and explore.
 * Visualization: present core ideas in familiar terms.
