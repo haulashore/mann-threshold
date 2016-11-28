@@ -34,7 +34,7 @@ readers of the business press.
 ### Slide 1: Black body radiation
 
 * Interactive example:
-  [Incandescence](https://en.wikipedia.org/wiki/Incandescence)
+  [incandescence](https://en.wikipedia.org/wiki/Incandescence)
   ([spectrum to RGB](http://markkness.net/colorpy/ColorPy.html),
   [color temperature](https://en.wikipedia.org/wiki/Color_temperature)).
 * Slider to estimate temperature of sun
@@ -43,10 +43,10 @@ readers of the business press.
 
 ### Slide 2: Atmospheric absorption.
 
-* Show Sun's (black body) spectrum after simple filter.
+* Show Sun's (short-wave) spectrum after simple filter (notch?).
 * Extend to filtering Sun's through atmosphere (Something like
   https://commons.wikimedia.org/wiki/File:Atmospheric_Transmission.png.)
-* Filter Earth's spectrum through atmosphere.
+* Filter Earth's (long-wave) spectrum through atmosphere.
 * Qualitatively, enough here to understand greenhouse effect. But,
   for quantitative results, need more...
 
