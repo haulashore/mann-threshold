@@ -1,5 +1,28 @@
 # Specification
 
+This is a specification for a visual, interactive browser-based
+explanation of the energy balance climate model (EBM), and of Mann's
+conclusions using the model. The emphasis is on showing, rather than
+telling. The goal is to give the reader an authentic appreciation of
+the principles (i.e., maintaining a genuine connection to the
+underlying science).
+
+The approach is based on reproducing Mann's research with a
+(coffeescript/javascript) port of his simulation code. This opens many
+directions for exploration, and allows readers to experiment with
+parameters to gain a tangible feel for the outcomes.
+
+The key technical element is the EBM's differential equation. The
+equation itself should be available as a mouseover, but should not
+appear at the top level (too intimidating). As a proxy, the
+specification proposes a hybrid of a set of scales (to illustrate the
+balance) and a speedometer (to show the level of unbalance affects the
+rate of change). Generally, even non-technical readers will
+intuitively understand the relationship between speed and distance,
+and we lean on this to bridge to the ODE. As a bonus, the graphic may
+be styled to show that the earth's future is in the balance (which is
+a key conclusion of Mann's research).
+
 ## Objective
 
 Present authentic climate-science in a substantive, accessible way to
