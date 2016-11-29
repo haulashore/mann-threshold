@@ -17,11 +17,11 @@ equation itself should be available as a mouseover, but should not
 appear at the top level (too intimidating). As a proxy, the
 specification proposes a hybrid of a set of scales (to illustrate the
 balance) and a speedometer (to show the level of unbalance affects the
-rate of change). Generally, even non-technical readers will
-intuitively understand the relationship between speed and distance,
-and we lean on this to bridge to the ODE. As a bonus, the graphic may
-be styled to show that the earth's future is in the balance (which is
-a key conclusion of Mann's research).
+rate of change). Even non-technical readers will intuitively
+understand the relationship between speed and distance, and we lean on
+this to bridge to the ODE. As a bonus, the graphic may be styled to
+show that the earth's future is in the balance (which is a key
+conclusion of Mann's research).
 
 ## Objective
 
